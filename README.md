@@ -2,9 +2,9 @@
 
 [![Bootstrap Freebies](/readme-images/github-bootstrap-freebies.png)](https://github.com/topics/bootstrap-freebies/) 
 
-**Team grid snippet** made with Bootstrap 4, perfect for presenting all of your project's team members. It features a clean, minimalistic design that shows only people's photos. Additional personal and business information is available when hovering the photos. [See a live demo here &raquo;](https://epicbootstrap.com/snippets/team-grid)
+**Team grid snippet** made with Bootstrap 4, perfect for presenting all of your project's team members. It features a clean, minimalistic design that shows only people's photos. Additional personal and business information is available when hovering the photos. [Get it in Bootstrap Studio &raquo;](https://bootstrapstudio.io)
 
-[![Team Grid](/readme-images/screenshot.png)](https://epicbootstrap.com/snippets/team-grid) 
+[![Team Grid](/readme-images/screenshot.png)](https://bootstrapstudio.io) 
 
 ## Features
 
